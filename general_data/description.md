@@ -1,1 +1,1 @@
-This folder inludes the raw counts data, the R code for batch correction, normalization and z-transformation, and the python scripts for selecting common genes
+This folder inludes the raw counts data, the R code for batch correction, normalization and z-transformation, and the python scripts for selecting common genes. It also includes the normalized (batch corrected and uncorrected) data (for visualization only prior to separation!)
