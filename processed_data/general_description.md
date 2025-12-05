@@ -1,1 +1,1 @@
-The training and testing (LOSO) data have been z-transformed using the means and standard deviations for the training dataset. For feature selection (only), the training data needs to be unnormalized.
+The training and testing (LOSO) data have been z-transformed using the means and standard deviations for the training dataset. For feature selection (only), the training data needs to be un-z-transformed.
