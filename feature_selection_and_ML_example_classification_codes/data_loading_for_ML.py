@@ -115,7 +115,7 @@ for b in train_sheets:
         "features_selected": features_selected
     }
 
-print("✅ All folds loaded with metadata merged.")
+print(" All folds loaded with metadata merged.")
 
 
 
