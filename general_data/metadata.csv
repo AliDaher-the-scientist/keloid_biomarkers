@@ -1,0 +1,43 @@
+Sample,batch,condition,platform
+pseudo_bulk_GSE156326.hypertrophic.scar.1,GSE156326,Hypertrophic Scar,scRNA
+pseudo_bulk_GSE156326.hypertrophic.scar.2,GSE156326,Hypertrophic Scar,scRNA
+pseudo_bulk_GSE156326.hypertrophic.scar.3,GSE156326,Hypertrophic Scar,scRNA
+pseudo_bulk_GSE156326.normal.skin.1,GSE156326,Normal Skin,scRNA
+pseudo_bulk_GSE156326.normal.skin.2,GSE156326,Normal Skin,scRNA
+pseudo_bulk_GSE156326.normal.skin.3,GSE156326,Normal Skin,scRNA
+pseudo_bulk_GSE163973.KF1_matrix,GSE163973,Keloid Scar,scRNA
+pseudo_bulk_GSE163973.KF2_matrix,GSE163973,Keloid Scar,scRNA
+pseudo_bulk_GSE163973.KF3_matrix,GSE163973,Keloid Scar,scRNA
+pseudo_bulk_GSE163973.NF1_matrix,GSE163973,Normal Scar,scRNA
+pseudo_bulk_GSE163973.NF2_matrix,GSE163973,Normal Scar,scRNA
+pseudo_bulk_GSE163973.NF3_matrix,GSE163973,Normal Scar,scRNA
+pseudo_bulk_GSE181297.Keloid.1,GSE181297,Keloid Scar,scRNA
+pseudo_bulk_GSE181297.keloid.2,GSE181297,Keloid Scar,scRNA
+pseudo_bulk_GSE243716.hypertrophic,GSE243716,Hypertrophic Scar,scRNA
+pseudo_bulk_GSE243716.keloid,GSE243716,Keloid Scar,scRNA
+pseudo_bulk_GSE266334.keloid.1,GSE266334,Keloid Scar,scRNA
+pseudo_bulk_GSE266334.keloid.2,GSE266334,Keloid Scar,scRNA
+pseudo_bulk_GSE266334.keloid.3,GSE266334,Keloid Scar,scRNA
+pseudo_bulk_GSE266334.normal.skin.1,GSE266334,Normal Skin,scRNA
+pseudo_bulk_GSE270438.keloid.scar.1,GSE270438,Keloid Scar,scRNA
+pseudo_bulk_GSE270438.keloid.scar.2,GSE270438,Keloid Scar,scRNA
+pseudo_bulk_GSE270438.keloid.scar.3,GSE270438,Keloid Scar,scRNA
+pseudo_bulk_GSE270438.normal.scar.1,GSE270438,Normal Scar,scRNA
+pseudo_bulk_GSE270438.normal.scar.2,GSE270438,Normal Scar,scRNA
+pseudo_bulk_GSE270438.normal.scar.3,GSE270438,Normal Scar,scRNA
+pseudo_bulk_GSE303592.keloid,GSE303592,Keloid Scar,scRNA
+pseudo_bulk_GSE303592.normal,GSE303592,Normal Scar,scRNA
+pseudo_bulk_GSE307504_keloid,GSE307504,Keloid Scar,scRNA
+pseudo_bulk_GSE_188952_Hypertrophic.scar_2,GSE188952,Hypertrophic Scar,bulk RNA
+pseudo_bulk_GSE_188952_Hypertrophic.scar_3,GSE188952,Hypertrophic Scar,bulk RNA
+pseudo_bulk_GSE_188952_Hypertrophic.scar_4,GSE188952,Hypertrophic Scar,bulk RNA
+pseudo_bulk_GSE_188952_Hypertrophic_scar_1,GSE188952,Hypertrophic Scar,bulk RNA
+pseudo_bulk_GSE_188952_hypertrophic.scar_5,GSE188952,Hypertrophic Scar,bulk RNA
+pseudo_bulk_GSE_188952_keloid.scar_1,GSE188952,Keloid Scar,bulk RNA
+pseudo_bulk_GSE_188952_keloid.scar_2,GSE188952,Keloid Scar,bulk RNA
+pseudo_bulk_GSE_188952_keloid.scar_3,GSE188952,Keloid Scar,bulk RNA
+pseudo_bulk_GSE_188952_keloid.scar_4,GSE188952,Keloid Scar,bulk RNA
+pseudo_bulk_GSE_188952_normotropic_scar_1,GSE188952,Normal Scar,bulk RNA
+pseudo_bulk_GSE_188952_normotropic_scar_2,GSE188952,Normal Scar,bulk RNA
+pseudo_bulk_GSE_188952_normotropic_scar_3,GSE188952,Normal Scar,bulk RNA
+pseudo_bulk_GSE307504_hypertrophic,GSE307504,Hypertrophic Scar,scRNA
